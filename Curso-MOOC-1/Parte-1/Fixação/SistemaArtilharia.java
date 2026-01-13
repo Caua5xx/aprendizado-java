@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Sistema de artilharia responsável por calcular o alcance de projéteis.
  * A precisão dos algorítmos utilizados neste sistema é crítica,
- * pois erros de cálculos podem comprometer a segurança de vidas de humanas.
+ * pois erros de cálculos podem comprometer a segurança de vidas humanas.
  */
 public class SistemaArtilharia {
     public static void main(String[] args) {
