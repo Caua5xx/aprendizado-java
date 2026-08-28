@@ -1,4 +1,4 @@
-package livro;
+package Livro;
 
 public class Livro {
 
@@ -26,6 +26,6 @@ public class Livro {
 
     @Override
     public String toString() {
-        return this.autor + ", " + this.nome; + ", " + this.paginas + " páginas";
+        return this.autor + ", " + this.nome + ", " + this.paginas + " páginas";
     }
 }
